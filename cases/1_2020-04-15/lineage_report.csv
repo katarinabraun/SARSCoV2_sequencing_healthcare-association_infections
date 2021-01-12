@@ -1,0 +1,4 @@
+taxon,lineage,probability,pangoLEARN_version,status,note
+hCoV-19/USA/IA-UW-121/2020|EPI_ISL_427428|2020-04-11,B.1,1.0,2021-01-06,passed_qc,
+hCoV-19/USA/WI-UW-122/2020|EPI_ISL_427429|2020-04-07,B.1.19,1.0,2021-01-06,passed_qc,
+hCoV-19/USA/WI-UW-120/2020|EPI_ISL_427427|2020-04-13,B.1.19,1.0,2021-01-06,passed_qc,

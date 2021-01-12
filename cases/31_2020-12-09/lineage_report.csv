@@ -1,0 +1,8 @@
+taxon,lineage,probability,pangoLEARN_version,status,note
+HCP_1,B.1.363,1.0,2021-01-06,passed_qc,
+HCP_2,B.1.2,1.0,2021-01-06,passed_qc,
+HCP_3,B.1.2,1.0,2021-01-06,passed_qc,
+HCP_4,B.1.2,1.0,2021-01-06,passed_qc,
+HCP_5,B.1.2,1.0,2021-01-06,passed_qc,
+HCP_6,B.1.2,1.0,2021-01-06,passed_qc,
+HCP_7,B.1.2,1.0,2021-01-06,passed_qc,
