@@ -18,11 +18,11 @@ Infection control procedures, consistently followed, offer significant protectio
 **Funding**
 This project was funded in part through a COVID-19 Response grant from the Wisconsin Partnership Program at the University of Wisconsin School of Medicine and Public Health to T.C.F. and D.H.O.
 
-## In this repository - 
-There are two directories (1) cases and (2) figures.
+## In this repository ... 
+... there are two directories (1) cases and (2) figures.
 
 ### Cases 
-We include one directory per case included in this paper. In this directory you can find the consensus fastas, a Nextclade CSV, a Pangolin (lineage) CSV, as well as Nextstrain phylogenies. 
+We include one directory per case included in this paper. In this directory you can find the consensus fastas, a Nextclade CSV, a Pangolin (lineage) CSV, as well as any associated phylogenetic trees (built using Nextstrain tools). 
 
 ### Figures 
 This directory contains all of the files used to make the three primary figures in the manuscript. 
