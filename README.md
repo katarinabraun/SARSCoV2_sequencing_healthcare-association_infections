@@ -1,5 +1,5 @@
 # SARSCoV2_sequencing_healthcare-association_infections
-To accompany the manuscript entitled "Viral sequencing reveals US healthcare personnel rarely become infected with SARS-CoV-2 through patient contact"
+To accompany the manuscript entitled *"Viral sequencing reveals US healthcare personnel rarely become infected with SARS-CoV-2 through patient contact"*
 
 ## Abstract 
 
@@ -19,13 +19,13 @@ Infection control procedures, consistently followed, offer significant protectio
 This project was funded in part through a COVID-19 Response grant from the Wisconsin Partnership Program at the University of Wisconsin School of Medicine and Public Health to T.C.F. and D.H.O.
 
 ## In this repository - 
-There are two directories (1) cases and (2) figures
+There are two directories (1) cases and (2) figures.
 
 ### Cases 
 We include one directory per case included in this paper. In this directory you can find the consensus fastas, a Nextclade CSV, a Pangolin (lineage) CSV, as well as Nextstrain phylogenies. 
 
 ### Figures 
-This directory contains all of the files used to make the three primary figures in teh manuscript. 
+This directory contains all of the files used to make the three primary figures in the manuscript. 
 
 ## Contact info 
 
