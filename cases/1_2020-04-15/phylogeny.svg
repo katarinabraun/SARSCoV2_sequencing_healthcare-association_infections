@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="treeLegend" pointer-events="none"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 915.1 649.8"
+	 style="enable-background:new 0 0 915.1 649.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-opacity:0;}
+	.st1{fill:none;stroke:#DDDDDD;stroke-width:2;}
+	.st2{fill:none;stroke:#EEEEEE;}
+	.st3{fill:#333333;}
+	.st4{font-family:'HelveticaNeue';}
+	.st5{font-size:14px;}
+	.st6{opacity:0.5;fill:none;stroke:#898FC1;stroke-width:0.5;}
+	.st7{opacity:0.5;fill:none;stroke:#8CA4C1;stroke-width:0.5;}
+	.st8{opacity:0.5;fill:none;stroke:#B4B4B4;stroke-width:0.5;}
+	.st9{fill:none;stroke:#94B2B3;stroke-width:10;}
+	.st10{opacity:0.5;fill:none;stroke:#94B2B3;stroke-width:0.5;}
+	.st11{fill:none;stroke:#94B2B3;stroke-width:9.4187;}
+	.st12{fill:none;stroke:#94B2B3;stroke-width:8.7942;}
+	.st13{opacity:0.5;fill:none;stroke:#A0B9A3;stroke-width:0.5;}
+	.st14{opacity:0.5;fill:none;stroke:#CAB187;stroke-width:0.5;}
+	.st15{opacity:0.5;fill:none;stroke:#CC9E84;stroke-width:0.5;}
+	.st16{opacity:0.5;fill:none;stroke:#AFBC94;stroke-width:0.5;}
+	.st17{opacity:0.5;fill:none;stroke:#BFBA8C;stroke-width:0.5;}
+	.st18{opacity:0.5;fill:none;stroke:#C8837F;stroke-width:0.5;}
+	.st19{opacity:0.5;stroke:#898FC1;stroke-width:0.5;stroke-linecap:round;}
+	.st20{opacity:0.5;stroke:#8CA4C1;stroke-width:0.5;stroke-linecap:round;}
+	.st21{opacity:0.5;stroke:#B4B4B4;stroke-width:0.5;stroke-linecap:round;}
+	.st22{stroke:#94B2B3;stroke-width:10;stroke-linecap:round;}
+	.st23{opacity:0.5;stroke:#94B2B3;stroke-width:0.5;stroke-linecap:round;}
+	.st24{stroke:#94B2B3;stroke-width:9.4187;stroke-linecap:round;}
+	.st25{stroke:#94B2B3;stroke-width:8.7942;stroke-linecap:round;}
+	.st26{opacity:0.5;stroke:#A0B9A3;stroke-width:0.5;stroke-linecap:round;}
+	.st27{opacity:0.5;stroke:#CAB187;stroke-width:0.5;stroke-linecap:round;}
+	.st28{opacity:0.5;stroke:#CC9E84;stroke-width:0.5;stroke-linecap:round;}
+	.st29{opacity:0.5;stroke:#AFBC94;stroke-width:0.5;stroke-linecap:round;}
+	.st30{opacity:0.5;stroke:#BFBA8C;stroke-width:0.5;stroke-linecap:round;}
+	.st31{opacity:0.5;stroke:#C8837F;stroke-width:0.5;stroke-linecap:round;}
+	.st32{font-family:'ArialMT';}
+	.st33{display:none;fill:#4F61FF;stroke:#3F4DCB;}
+	.st34{display:none;fill:#58A3FD;stroke:#4681C9;}
+	.st35{display:none;fill:#71CFD4;stroke:#5AA4A8;}
+	.st36{fill:#71CFD4;stroke:#5AA4A8;}
+	.st37{display:none;fill:#97E59F;stroke:#78B67E;}
+	.st38{display:none;fill:#FFCC49;stroke:#E0A23A;}
+	.st39{display:none;fill:#FF903E;stroke:#E67231;}
+	.st40{display:none;fill:#C7F071;stroke:#9EBE5A;}
+	.st41{display:none;fill:#F8E957;stroke:#C5B945;}
+	.st42{display:none;fill:#FF3B2D;stroke:#DC2F24;}
+	.st43{fill-opacity:0.65;}
+	.st44{fill:#5AA4A8;fill-opacity:0.65;stroke:#5AA4A8;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st45{fill:#3F4DCB;fill-opacity:0.65;stroke:#3F4DCB;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st46{fill:#4681C9;fill-opacity:0.65;stroke:#4681C9;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st47{fill:#78B67E;fill-opacity:0.65;stroke:#78B67E;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st48{fill:#9EBE5A;fill-opacity:0.65;stroke:#9EBE5A;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st49{fill:#DC2F24;fill-opacity:0.65;stroke:#DC2F24;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st50{fill:#E0A23A;fill-opacity:0.65;stroke:#E0A23A;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st51{fill:#E67231;fill-opacity:0.65;stroke:#E67231;stroke-width:0.2;stroke-miterlimit:10;stroke-opacity:0.85;}
+	.st52{display:none;fill:none;}
+	.st53{fill:none;stroke:#000000;}
+</style>
+<g id="temporalWindow">
+	<polygon class="st0" points="50,50 50,50 50,50 	"/>
+	<polygon class="st0" points="50,50 50,50 50,50 	"/>
+</g>
+<g id="majorGrid">
+	<path class="st1" d="M34.3,598V60"/>
+	<path class="st1" d="M155,598V60"/>
+	<path class="st1" d="M271.6,598V60"/>
+	<path class="st1" d="M390.2,598V60"/>
+	<path class="st1" d="M508.8,598V60"/>
+	<path class="st1" d="M627.3,598V60"/>
+	<path class="st1" d="M745.9,598V60"/>
+	<path class="st1" d="M866.6,598V60"/>
+</g>
+<g id="minorGrid">
+	<path class="st2" d="M94.7,598"/>
+	<path class="st2" d="M211.4,60"/>
+	<path class="st2" d="M211.4,598"/>
+	<path class="st2" d="M329.9,60"/>
+	<path class="st2" d="M329.9,598"/>
+	<path class="st2" d="M448.5,60"/>
+	<path class="st2" d="M448.5,598"/>
+	<path class="st2" d="M569,60"/>
+	<path class="st2" d="M569,598"/>
+	<path class="st2" d="M687.6,60"/>
+	<path class="st2" d="M687.6,598"/>
+	<path class="st2" d="M806.2,60"/>
+	<path class="st2" d="M806.2,598"/>
+</g>
+<g id="gridText">
+	<text transform="matrix(1 0 0 1 7.985 616)" class="st3 st4 st5">2019-Dec</text>
+	<text transform="matrix(1 0 0 1 129.1021 616)" class="st3 st4 st5">2020-Feb</text>
+	<text transform="matrix(1 0 0 1 246.5053 616)" class="st3 st4 st5">2020-Apr</text>
+	<text transform="matrix(1 0 0 1 364.7301 616)" class="st3 st4 st5">2020-Jun</text>
+	<text transform="matrix(1 0 0 1 482.4151 616)" class="st3 st4 st5">2020-Aug</text>
+	<text transform="matrix(1 0 0 1 601.9781 616)" class="st3 st4 st5">2020-Oct</text>
+	<text transform="matrix(1 0 0 1 719.5491 616)" class="st3 st4 st5">2020-Dec</text>
+	<text transform="matrix(1 0 0 1 840.6716 616)" class="st3 st4 st5">2021-Feb</text>
+</g>
+<g id="branchTee">
+	<path id="branchT_NODE_0003924" class="st6" d="M80,598v-19.2"/>
+	<path id="branchT_NODE_0001232" class="st7" d="M125.1,597.5v-6.2"/>
+	<path id="branchT_NODE_0000002" class="st7" d="M132.5,597.9v-0.8"/>
+	<path id="branchT_NODE_0001234" class="st7" d="M231.5,597.7V596"/>
+	<path id="branchT_NODE_0001235" class="st7" d="M254.1,597.5v-0.1"/>
+	<path id="branchT_NODE_0001246" class="st7" d="M237.5,597.2V597"/>
+	<path id="branchT_NODE_0001247" class="st7" d="M237.7,596.9v-0.3"/>
+	<path id="branchT_NODE_0000007" class="st7" d="M240.5,596.6v-0.1"/>
+	<path id="branchT_NODE_0000008" class="st7" d="M231.6,596.2v-0.5"/>
+	<path id="branchT_NODE_0000009" class="st7" d="M231.8,596.4v-0.2"/>
+	<path id="branchT_NODE_0000010" class="st7" d="M231.9,596.2v-0.1"/>
+	<path id="branchT_NODE_0000013" class="st7" d="M231.6,595.9v-0.3"/>
+	<path id="branchT_NODE_0000015" class="st7" d="M237.7,595.9v-0.1"/>
+	<path id="branchT_NODE_0000016" class="st7" d="M237.7,595.7v-0.1"/>
+	<path id="branchT_NODE_0001251" class="st7" d="M229.4,595.4v-1.5"/>
+	<path id="branchT_NODE_0001254" class="st7" d="M249,595.1v-0.5"/>
+	<path id="branchT_NODE_0001255" class="st7" d="M291.1,595v-0.1"/>
+	<path id="branchT_NODE_0000021" class="st7" d="M273.4,594.7v-0.2"/>
+	<path id="branchT_NODE_0000022" class="st7" d="M295,594.6v-0.1"/>
+	<path id="branchT_NODE_0001259" class="st7" d="M237.5,594.2v-0.6"/>
+	<path id="branchT_NODE_0000024" class="st7" d="M238.4,594.3v-0.1"/>
+	<path id="branchT_NODE_0001261" class="st7" d="M237.5,594v-1"/>
+	<path id="branchT_NODE_0001269" class="st7" d="M252.2,593.9v-0.1"/>
+	<path id="branchT_NODE_0001265" class="st7" d="M254,593.6v-0.2"/>
+	<path id="branchT_NODE_0000025" class="st7" d="M258,593.5v-0.1"/>
+	<path id="branchT_NODE_0000032" class="st7" d="M243.6,593.1v-0.3"/>
+	<path id="branchT_NODE_0000033" class="st7" d="M254.1,593.2v-0.1"/>
+	<path id="branchT_NODE_0000035" class="st7" d="M256,592.9v-0.1"/>
+	<path id="branchT_NODE_0001270" class="st7" d="M232.2,592.6v-4.4"/>
+	<path id="branchT_NODE_0001287" class="st7" d="M240.2,592.2v-0.8"/>
+	<path id="branchT_NODE_0000037" class="st7" d="M248.3,592.1V592"/>
+	<path id="branchT_NODE_0001290" class="st7" d="M255.9,591.8V591"/>
+	<path id="branchT_NODE_0000047" class="st7" d="M260,591.4v-0.1"/>
+	<path id="branchT_NODE_0001291" class="st7" d="M281.3,591.1v-0.3"/>
+	<path id="branchT_NODE_0000040" class="st7" d="M232.2,590.5v-0.8"/>
+	<path id="branchT_NODE_0000042" class="st7" d="M238.3,590.7v-0.4"/>
+	<path id="branchT_NODE_0000043" class="st7" d="M249.7,590.5v-0.3"/>
+	<path id="branchT_NODE_0000045" class="st7" d="M256.1,590.6v-0.1"/>
+	<path id="branchT_NODE_0000046" class="st7" d="M256.1,590.3v-0.2"/>
+	<path id="branchT_NODE_0001277" class="st7" d="M296.4,590.2V590"/>
+	<path id="branchT_NODE_0000048" class="st7" d="M238.4,589.9v-0.4"/>
+	<path id="branchT_NODE_0000049" class="st7" d="M254.1,589.7v-0.3"/>
+	<path id="branchT_NODE_0000050" class="st7" d="M258,589.8v-0.1"/>
+	<path id="branchT_NODE_0000051" class="st7" d="M268.1,589.5v-0.2"/>
+	<path id="branchT_NODE_0000052" class="st7" d="M285.8,589.3v-0.2"/>
+	<path id="branchT_NODE_0000053" class="st7" d="M295,589.2v-0.1"/>
+	<path id="branchT_NODE_0001297" class="st7" d="M238.4,588.9v-1.6"/>
+	<path id="branchT_NODE_0001307" class="st7" d="M257.7,588.8v-0.7"/>
+	<path id="branchT_NODE_0000058" class="st7" d="M263.3,588.3v-0.4"/>
+	<path id="branchT_NODE_0000060" class="st7" d="M269.2,588.4v-0.2"/>
+	<path id="branchT_NODE_0000061" class="st7" d="M285,588.2v-0.1"/>
+	<path id="branchT_NODE_0000062" class="st7" d="M269.3,588v-0.2"/>
+	<path id="branchT_NODE_0000064" class="st7" d="M275.1,587.8v-0.1"/>
+	<path id="branchT_NODE_0000065" class="st7" d="M244,587.6v-0.4"/>
+	<path id="branchT_NODE_0000066" class="st7" d="M244.9,587.4v-0.5"/>
+	<path id="branchT_NODE_0000069" class="st7" d="M250.2,587.4v-0.1"/>
+	<path id="branchT_NODE_0000071" class="st7" d="M254,587.1v-0.4"/>
+	<path id="branchT_NODE_0000073" class="st7" d="M258,587.1V587"/>
+	<path id="branchT_NODE_0000074" class="st7" d="M256.5,586.8v-0.3"/>
+	<path id="branchT_NODE_0001303" class="st7" d="M283.3,586.9v-0.1"/>
+	<path id="branchT_NODE_0000076" class="st7" d="M274.1,586.6v-0.1"/>
+	<path id="branchT_NODE_0000077" class="st6" d="M80.5,586.1v-14.5"/>
+	<path id="branchT_NODE_0001221" class="st6" d="M127.6,586.3v-0.6"/>
+	<path id="branchT_NODE_0001222" class="st6" d="M252.2,586.2v-0.1"/>
+	<path id="branchT_NODE_0001224" class="st6" d="M219.8,585.9v-0.4"/>
+	<path id="branchT_NODE_0001226" class="st6" d="M226.2,585.6v-0.3"/>
+	<path id="branchT_NODE_0001228" class="st6" d="M232.2,585.4v-0.1"/>
+	<path id="branchT_NODE_0000083" class="st6" d="M80.7,585.1v-27"/>
+	<path id="branchT_NODE_0000084" class="st6" d="M81.3,584.5v-52.8"/>
+	<path id="branchT_NODE_0000085" class="st6" d="M137.9,585v-0.9"/>
+	<path id="branchT_USA-WI1-2020_travel_history" class="st8" d="M153.1,585L153.1,585"/>
+	<path id="branchT_NODE_0000086" class="st6" d="M218.4,584.7v-1.4"/>
+	<path id="branchT_NODE_0001219" class="st6" d="M232.2,584.8v-0.1"/>
+	<path id="branchT_NODE_0000088" class="st6" d="M221.5,584.3v-1.9"/>
+	<path id="branchT_NODE_0000091" class="st6" d="M255.8,584.5v-0.3"/>
+	<path id="branchT_NODE_0000092" class="st6" d="M269.7,584.5v-0.1"/>
+	<path id="branchT_NODE_0000094" class="st6" d="M257.8,584.3v-0.1"/>
+	<path id="branchT_NODE_0000095" class="st6" d="M225.9,584v-3.1"/>
+	<path id="branchT_NODE_0001316" class="st6" d="M230.7,583.9v-16.7"/>
+	<path id="branchT_NODE_0001336" class="st6" d="M244.4,580.7v-0.1"/>
+	<path id="branchT_NODE_0001357" class="st6" d="M249.3,580.4v-0.1"/>
+	<path id="branchT_NODE_0001365" class="st6" d="M256,580.1V580"/>
+	<path id="branchT_NODE_0001370" class="st6" d="M254.8,579.9v-0.1"/>
+	<path id="branchT_NODE_0001477" class="st6" d="M256.1,579.6v-0.1"/>
+	<path id="branchT_NODE_0001387" class="st6" d="M240.1,579.3v-0.3"/>
+	<path id="branchT_NODE_0000099" class="st6" d="M256.1,579.3v-0.1"/>
+	<path id="branchT_NODE_0000100" class="st6" d="M252.6,579v-0.2"/>
+	<path id="branchT_NODE_0000101" class="st6" d="M256.1,578.9v-0.1"/>
+	<path id="branchT_NODE_0001392" class="st6" d="M236.6,578.6v-0.9"/>
+	<path id="branchT_NODE_0001398" class="st6" d="M257.5,578.4v-0.2"/>
+	<path id="branchT_NODE_0000106" class="st6" d="M267.7,578.2v-0.1"/>
+	<path id="branchT_NODE_0001393" class="st6" d="M254.6,577.9v-0.3"/>
+	<path id="branchT_NODE_0001394" class="st6" d="M269.1,577.9v-0.1"/>
+	<path id="branchT_NODE_0000107" class="st6" d="M261.9,577.7v-0.1"/>
+	<path id="branchT_NODE_0001454" class="st6" d="M234.6,577.4v-2.2"/>
+	<path id="branchT_NODE_0001464" class="st6" d="M254.1,577.1v-0.4"/>
+	<path id="branchT_NODE_0001466" class="st6" d="M269.5,576.8v-0.3"/>
+	<path id="branchT_NODE_0000112" class="st6" d="M295,576.6v-0.1"/>
+	<path id="branchT_NODE_0001469" class="st6" d="M244.4,576.3v-0.5"/>
+	<path id="branchT_NODE_0001472" class="st6" d="M276.1,575.9v-0.2"/>
+	<path id="branchT_NODE_0000116" class="st6" d="M284.9,575.7v-0.1"/>
+	<path id="branchT_NODE_0000118" class="st6" d="M234.6,575.4v-0.4"/>
